@@ -5,8 +5,7 @@ Time
 
 Create new
 |python|from|to|
-|-------|---|---
-|?|
+|-------|---|---|
 
 
 |from    | to   |function                 |status|tests|python|
