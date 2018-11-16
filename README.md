@@ -5,8 +5,13 @@ Time
 
 Create new
 
-|python|from|to|
-|-------|---|---|
+|from            |to              |python|
+|----------------|----------------|------|
+|datetime (local)|datetime (utc)  |      |
+|datetime (utc)  |datetime (local)|      |
+|time (local)    |    time (utc)  |      |
+|time (utc)      |    time (local)|      |
+
 
 
 |from    | to   |function                 |status|tests|python|
